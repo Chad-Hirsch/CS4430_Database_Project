@@ -1,0 +1,14 @@
+[19-Nov-2019 15:50:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chadhirsch/public_html/install.php:294) in /home4/chadhirsch/public_html/install.php on line 11
+[19-Nov-2019 15:59:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chadhirsch/public_html/install.php:294) in /home4/chadhirsch/public_html/install.php on line 11
+[19-Nov-2019 16:05:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chadhirsch/public_html/install.php:294) in /home4/chadhirsch/public_html/install.php on line 11
+[19-Nov-2019 16:09:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chadhirsch/public_html/install.php:294) in /home4/chadhirsch/public_html/install.php on line 11
+[19-Nov-2019 17:03:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chadhirsch/public_html/install.php:294) in /home4/chadhirsch/public_html/install.php on line 11
+[19-Nov-2019 17:12:18 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/chadhirsch/public_html/install.php on line 169
+[19-Nov-2019 17:12:18 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/chadhirsch/public_html/install.php on line 169
+[19-Nov-2019 17:12:18 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/chadhirsch/public_html/install.php on line 169
+[19-Nov-2019 17:12:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/chadhirsch/public_html/install.php:294) in /home4/chadhirsch/public_html/install.php on line 207
+[19-Nov-2019 17:34:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home4/chadhirsch/public_html/view_case.php:20
+Stack trace:
+#0 /home4/chadhirsch/public_html/view_case.php(20): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/chadhirsch/public_html/view_case.php on line 20
